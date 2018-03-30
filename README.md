@@ -1,0 +1,2 @@
+# Human-Animatronic-hand
+This project presents the development of hand tracking application whose motion controls different servos on an animatronic. One hand glove is made which used flex sensors for giving motion inputs. One robotic animatronic hand is made which used servomotors for making same movements as hand glove synchronously. The robotic hand is controlled wirelessly through the use zigbee router and coordinator. Studied working of zigbee router and coordinator and programming it to work with microcontroller.
